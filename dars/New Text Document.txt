@@ -1,6 +1,6 @@
 import requests
-username = 'hakimi88'
-token = 'be4806030bf1c7b1ce9fa8bd78a1dac5b717ceab'
+username = ''
+token = ''
 
 response = requests.get(
     'https://www.pythonanywhere.com/api/v0/user/{username}/cpu/'.format(
